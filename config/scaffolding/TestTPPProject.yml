@@ -7,8 +7,3 @@ packages:
   gitUrl: https://github.com/Pooja-Anand-IBM-2
   gitUsername: Pooja-Anand-IBM-2
   gitBranch: main
-- name: Default
-  gitServerName: test
-  gitUrl: https://github.com/Pooja-Anand-IBM-2
-  gitUsername: Pooja-Anand-IBM-2
-  gitBranch: main
